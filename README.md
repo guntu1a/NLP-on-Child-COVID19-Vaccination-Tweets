@@ -1,14 +1,13 @@
 # NLP-on-Child-COVID19-Vaccination-Tweets
-Contents:
+**Contents:**
 
-Project Goal
-Twitter Premium API
-Tweets Extraction
-Tweets Wrangling
-Data Analysis
-Preprocessing of Tweets
-Sentiment Analysis
-Word2vec
-Text generation using LSTM
-LDA Topic modelling
-![image](https://user-images.githubusercontent.com/80559914/169722647-e255038d-9f29-480d-a8d7-0276c2e00349.png)
+1) Project Goal
+2) Twitter Premium API
+3) Tweets Extraction
+4) Tweets Wrangling
+5) Data Analysis
+6) Preprocessing of Tweets
+7) Sentiment Analysis
+8) Word2vec
+9) Text generation using LSTM
+10) LDA Topic modelling
